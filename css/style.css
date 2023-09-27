@@ -1,0 +1,40 @@
+/* this is a css comment */
+body {
+    background-color: #DBE5FF;
+}
+main {
+    background-color: #DBE5FF
+    ;
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    background-color: #0247FE
+
+    ;
+
+    margin: 0;
+    height: 150px;
+}
+
+h1 {
+    
+    font-size: 4em;
+    color: #678FFE
+
+
+
+    ;
+    padding: 1em;
+}
+h2 {
+    color: #000000
+    ;
+    background-color: #DBE5FF
+
+}
+p {
+    color: ;
+    background-color: #DBE5FF
+    ;
+}
